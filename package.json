@@ -1,0 +1,28 @@
+{
+  "name": "strangerthings",
+  "version": "1.0.0",
+  "description": "A simple API to retrieve some quotes of Stranger Things",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shadowoff09/strangerthings-quotes"
+  },
+  "keywords": [
+    "stranger",
+    "things",
+    "strangerthings",
+    "quotes",
+    "api"
+  ],
+  "author": "Shadowoff09",
+  "bugs": {
+    "url": "https://github.com/shadowoff09/strangerthings-quotes/issues"
+  },
+  "homepage": "https://github.com/shadowoff09/strangerthings-quotes",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
