@@ -19,10 +19,10 @@ Get a random quote in this format:
 > [https://strangerthings-quotes.herokuapp.com/v1/quotes](https://strangerthings-quotes.herokuapp.com/v1/quotes)
 
 	[
-		{
-		  "quote": "The gate… I opened it.",
-		  "author": "Eleven"
-    	},
+	  {
+		"quote": "The gate… I opened it.",
+		"author": "Eleven"
+      },
 	]
 
 
