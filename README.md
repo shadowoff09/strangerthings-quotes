@@ -20,8 +20,8 @@ Get a random quote in this format:
 
 	[
 		{
-			"quote": "The gate… I opened it.",
-			"author": "Eleven"
+		  "quote": "The gate… I opened it.",
+		  "author": "Eleven"
     	},
 	]
 
