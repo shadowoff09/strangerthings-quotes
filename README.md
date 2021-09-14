@@ -70,7 +70,7 @@ Returns an array with `{number}` quotes e.g. `GET /v1/quotes/5`.
 If you want to add some quotes, just add them in `quotes.js` file and do a pull request !
 
 ## Donate
-If you liked this project feel free to donate] me for future awesome projects!</br>
+If you liked this project feel free to donate me for future awesome projects!</br>
 [Paypal](https://paypal.me/diogogaspar123)</br>
 [Ko-fi](https://ko-fi.com/shadowoff09)
 
