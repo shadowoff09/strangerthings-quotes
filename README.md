@@ -33,6 +33,7 @@ Get a random quote in this format:
 	]
 
 
+
 ### `GET /v1/quotes/{number}`
 
 Returns an array with `{number}` quotes e.g. `GET /v1/quotes/5`.
