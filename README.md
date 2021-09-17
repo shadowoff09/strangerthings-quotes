@@ -75,6 +75,6 @@ If you liked this project feel free to donate me for future awesome projects!</b
 [Ko-fi](https://ko-fi.com/shadowoff09)
 
 
-## Credits
+## Authors
 
-Inspired by [Ron Swanson Quotes](https://github.com/jamesseanwright/ron-swanson-quotes).
+- [@shadowoff09](https://www.github.com/shadowoff09)
