@@ -1,4 +1,4 @@
-![](StrangerThingsQuotesAPI-Banner.png)</br>
+![](src/public/images/banner.png)</br>
 [![Licence](https://img.shields.io/github/license/shadowoff09/strangerthings-quotes)](https://github.com/shadowoff09/strangerthings-quotes/blob/main/LICENSE)
 [![Deployments](https://img.shields.io/github/deployments/shadowoff09/strangerthings-quotes/strangerthings-quotes)](https://github.com/shadowoff09/strangerthings-quotes)
 [![Commits](https://img.shields.io/github/last-commit/shadowoff09/strangerthings-quotes)](https://github.com/shadowoff09/strangerthings-quotes/commits/main)
@@ -11,11 +11,7 @@
 
 A simple API to retrieve some quotes of Stranger Things!
 
-:globe_with_meridians: Website and demo: **Under development**
-
-## Production host
-
-[https://strangerthings-quotes.herokuapp.com/](https://strangerthings-quotes.herokuapp.com/)
+:globe_with_meridians: Website: [https://strangerthings-quotes.vercel.app](https://strangerthings-quotes.vercel.app/)
 
 ## API
 
@@ -23,7 +19,7 @@ A simple API to retrieve some quotes of Stranger Things!
 
 Get a random quote in this format:
 
-> [https://strangerthings-quotes.herokuapp.com/v1/quotes](https://strangerthings-quotes.herokuapp.com/v1/quotes)
+> [https://strangerthings-quotes.vercel.app/v1/quotes](https://strangerthings-quotes.vercel.app/v1/quotes)
 
 	[
 	  {
@@ -38,7 +34,7 @@ Get a random quote in this format:
 
 Returns an array with `{number}` quotes e.g. `GET /v1/quotes/5`.
 
-> [https://lucifer-quotes.herokuapp.com/v1/quotes/5](https://lucifer-quotes.herokuapp.com/v1/quotes/5)
+> [https://strangerthings-quotes.vercel.app/v1/quotes/5](https://strangerthings-quotes.vercel.app/v1/quotes/5)
 
 	[
 	  {
@@ -67,7 +63,7 @@ Returns an array with `{number}` quotes e.g. `GET /v1/quotes/5`.
 
 ## Contributing
 
-If you want to add some quotes, just add them in `quotes.js` file and do a pull request !
+If you want to add some quotes, just add them in `src/quotes.js` file and do a pull request !
 
 ## Donate
 If you liked this project feel free to donate me for future awesome projects!</br>
