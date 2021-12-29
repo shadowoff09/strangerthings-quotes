@@ -67,8 +67,8 @@ If you want to add some quotes, just add them in `src/quotes.js` file and do a p
 
 ## Donate
 If you liked this project feel free to donate me for future awesome projects!</br>
-[Paypal](https://paypal.me/diogogaspar123)</br>
-[Ko-fi](https://ko-fi.com/shadowoff09)
+- [Paypal](https://paypal.me/diogogaspar123)</br>
+- [Ko-fi](https://ko-fi.com/shadowoff09)
 
 
 ## Authors
