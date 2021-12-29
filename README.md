@@ -13,7 +13,7 @@ A simple API to retrieve some quotes of Stranger Things!
 
 :globe_with_meridians: Website: [https://strangerthings-quotes.vercel.app](https://strangerthings-quotes.vercel.app/)
 
-## API
+## API Documentation
 
 ### `GET /api/quotes`
 
