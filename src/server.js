@@ -20,7 +20,7 @@ app.get("/", function (request, response){
     response.sendFile(__dirname+"/index.html");
 });
 
-app.get('/v1/quotes/:num?', function (req, res) {
+app.get('/api/quotes/:num?', function (req, res) {
     res.send(quotesRepository.getRandom(req.params.num || 1));
 });
 

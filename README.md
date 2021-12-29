@@ -15,11 +15,11 @@ A simple API to retrieve some quotes of Stranger Things!
 
 ## API
 
-### `GET /v1/quotes`
+### `GET /api/quotes`
 
 Get a random quote in this format:
 
-> [https://strangerthings-quotes.vercel.app/v1/quotes](https://strangerthings-quotes.vercel.app/v1/quotes)
+> [https://strangerthings-quotes.vercel.app/api/quotes](https://strangerthings-quotes.vercel.app/api/quotes)
 
 	[
 	  {
@@ -30,11 +30,11 @@ Get a random quote in this format:
 
 
 
-### `GET /v1/quotes/{number}`
+### `GET /api/quotes/{number}`
 
-Returns an array with `{number}` quotes e.g. `GET /v1/quotes/5`.
+Returns an array with `{number}` quotes e.g. `GET /api/quotes/5`.
 
-> [https://strangerthings-quotes.vercel.app/v1/quotes/5](https://strangerthings-quotes.vercel.app/v1/quotes/5)
+> [https://strangerthings-quotes.vercel.app/api/quotes/5](https://strangerthings-quotes.vercel.app/api/quotes/5)
 
 	[
 	  {
