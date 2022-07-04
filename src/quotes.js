@@ -33,6 +33,10 @@ module.exports = [
         "quote": "Mouth breather",
         "author": "Eleven"
     },
+    {
+        "quote": "I'm betting the fate of the planet that you're one of the good ones.",
+        "author": "Eleven"
+    },
     {    
         "quote": "I will never, ever let anything bad happen to you ever again. Whatever’s going on in you, we’re gonna fix it.",
         "author": "Joyce Byers"
@@ -102,6 +106,10 @@ module.exports = [
         "author": "Jim Hopper"
     },
     {
+        "quote": "I was wrong this whole time. I wasn't cursed. I am the curse.",
+        "author": "Jim Hopper"
+    },
+    {
         "quote": "El, are you there? El? It’s me, it’s Mike. It’s day 352, 7:40 pm, I am still here. If you’re out there, say something... or give me a sign, I won’t, I won’t even say anything, I just... I want to know if you’re okay.",
         "author": "Mike Wheeler"
     },
@@ -146,7 +154,15 @@ module.exports = [
         "author": "Mike Wheeler"
     },
     {
+        "quote": "You do realize El saved the world twice, right?",
+        "author": "Mike Wheeler"
+    },
+    {
         "quote": "She is our friend and she is crazy.",
+        "author": "Dustin Henderson"
+    },
+    {
+        "quote": "Dude - You did it! You won a fight!",
         "author": "Dustin Henderson"
     },
     {
@@ -203,6 +219,10 @@ module.exports = [
     },
     {
         "quote": "I told you a million times my teeth are coming in. It’s called cleidocranial dysplasia.",
+        "author": "Dustin Henderson"
+    },
+    {
+        "quote": "You're just jealous because I have another older male friend.",
         "author": "Dustin Henderson"
     },
     {
@@ -367,6 +387,10 @@ module.exports = [
     },
     {
         "quote": "The demogorgon – it got me. See you tomorrow.",
+        "author": "Will Byers"
+    },
+    {
+        "quote": "You shouldn't have upset him.",
         "author": "Will Byers"
     },
     {
