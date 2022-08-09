@@ -6,9 +6,7 @@ var quotesRepository = require('./quotesRepository');
 var app = express();
 var port = process.env.PORT || 3001;
 
-app.use('/images', express.static('public/images'));
-
-app.use('/css', express.static('public/css'));
+app.use(express.static(__dirname + '/public'));
 
 app.all('*', function (req, res, next) {
     res.set('Access-Control-Allow-Origin', '*');
