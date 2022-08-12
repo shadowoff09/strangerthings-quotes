@@ -3,8 +3,6 @@
 Thank you for contributing to our Stranger Things Quotes.
 
 ## Guidelines
-
-- **One quote** per Pull Request.
   
 - The quote need to be from Stranger Things.
 
