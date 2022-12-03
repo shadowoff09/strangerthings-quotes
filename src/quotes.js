@@ -425,6 +425,40 @@ module.exports = [
         "quote": "Hey dingus! Your children are here again.",
         "author": "Robin Buckley"
     },
+    {
+        "quote": "Badda Badda BOOM!",
+        "author": "Dustin Henderson"
+    },
+    {
+        "quote": "What have you done? What. Have. You. Done?",
+        "author": "Dr. Brenner"
+    },
+    {
+        "quote": "Are we gonna do this or are we gonna keep chitchatting like its your mommy’s book club?",
+        "author": "Erica Sinclair"
+    },
+    {
+        "quote": "We’re the freaks because we like to play a fantasy game.",
+        "author": "Eddie Munson "
+    },
+    {
+        "quote": "Durable. Deadly and reliable. Hear me now- there will be no retreating from Eddie the Banished.",
+        "author": "Eddie Munson "
+    },
+    {
+        "quote": "It’s Very Metal, What You Did. That’s All I’m Saying.",
+        "author": "Eddie Munson "
+    },
+    {
+        "quote": "Never Change, Dustin Henderson. Promise Me.",
+        "author": "Eddie Munson "
+    },
+    {
+        "quote": "Chrissy Wake Up. I Don’t Like This, Chrissy. Wake Up!”,
+        "author": "Eddie Munson "
+    },
+    
+    
 
 
 ];
