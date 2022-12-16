@@ -17,7 +17,7 @@ body {
   }
 
   main {
-    padding: 0px 20px 20px 20px !important;
+    padding: 0px 20px 20px !important;
   }
 }
 
@@ -117,7 +117,6 @@ blockquote * {
 * Tables
 */
 table {
-  border-spacing: 2px;
   display: block;
   font-size: 14px;
   overflow: auto;
