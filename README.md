@@ -75,9 +75,10 @@ If you liked this project feel free to donate me for future awesome projects!</b
 
 - [@shadowoff09](https://www.github.com/shadowoff09)
 
-## Lucifer Version
+## Other Versions
 
 - [lucifer-quotes](https://github.com/shadowoff09/lucifer-quotes)
+- [bcs-quotes](https://github.com/shadowoff09/bcs-quotes)
 
 ---
 
