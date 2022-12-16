@@ -19,7 +19,7 @@ module.exports = [
     },
     {
         "quote": "What is friend?",
-        "author": "Chloe Decker"
+        "author": "Eleven"
     },
     {      
         "quote": "I’m the monster.",
