@@ -6,7 +6,7 @@
 [![Quotes](https://img.shields.io/badge/quotes-100-blue)](https://github.com/shadowoff09/strangerthings-quotes/blob/main/quotes.js)
 [![Paypal](https://img.shields.io/badge/Paypal-Donate-blue)](https://paypal.me/diogogaspar123)
 [![Ko-Fi](https://img.shields.io/badge/Ko--Fi-Donate-ff69b4)](https://ko-fi.com/shadowoff09)
-
+[![CodeFactor](https://www.codefactor.io/repository/github/shadowoff09/strangerthings-quotes/badge)](https://www.codefactor.io/repository/github/shadowoff09/strangerthings-quotes)
 # Stranger Things quotes API
 
 A simple API to retrieve some quotes of Stranger Things!
