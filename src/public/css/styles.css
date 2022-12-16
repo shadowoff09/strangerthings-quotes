@@ -98,15 +98,16 @@ blockquote {
   margin-left: 30px;
   margin-top: 0px;
   margin-bottom: 16px;
-  border-left-width: 3px;
+  border-left: 4px solid #e8e8e8;
   padding: 0 1em;
   color: #828282;
-  border-left: 4px solid #e8e8e8;
   padding-left: 15px;
   font-size: 18px;
   letter-spacing: -1px;
   font-style: italic;
 }
+
+
 blockquote * {
   font-style: normal !important;
   letter-spacing: 0;
