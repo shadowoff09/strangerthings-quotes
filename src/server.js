@@ -1,7 +1,6 @@
 'use strict';
 
 var express = require('express');
-var path = require('path')
 var quotesRepository = require('./quotesRepository');
 var app = express();
 var port = process.env.PORT || 3001;
