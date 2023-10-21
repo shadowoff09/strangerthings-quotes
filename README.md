@@ -79,10 +79,15 @@ If you liked this project feel free to donate me for future awesome projects!</b
 
 - [lucifer-quotes](https://github.com/shadowoff09/lucifer-quotes)
 - [bcs-quotes](https://github.com/shadowoff09/bcs-quotes)
+- [cinema-quotes](https://github.com/shadowoff09/cinema-quotes)
 
 ---
 
-[![https://vercel.com?utm_source=shadowoff09&utm_campaign=oss](./powered-by-vercel.svg)](https://vercel.com?utm_source=shadowoff09&utm_campaign=oss)
-
-
-Made with :heart: and JavaScript.
+<p align="center">
+  <br>
+  <a href="https://vercel.com?utm_source=shadowoff09&utm_campaign=oss">
+    <img src="./powered-by-vercel.svg" />
+  </a>
+  <br><br>
+  <i>Made with ❤️ and Javascript</i>
+</p>
