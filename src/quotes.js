@@ -425,6 +425,11 @@ module.exports = [
         "quote": "Hey dingus! Your children are here again.",
         "author": "Robin Buckley"
     },
-
+    {    "quote": "You speak of monsters and superheroes. That's the stuff of myth and fairytales. Reality, truth, is rarely so simple. People are not so easily defined. Only by facing all of ourselves--the good and the bad--can we become whole",
+	 "author": "Dr. Brenner"
+    },
+    {     "quote": "I saw tracks in the woods. Who knew you could see your own future?",
+	  "author": "Murray"
+    },
 
 ];
